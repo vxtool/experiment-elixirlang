@@ -1,7 +1,11 @@
 # Experiments with Elixir
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
-[![issues](https://img.shields.io/github/issues/experiment-solutions/experiment-elixirlang.svg?style=flat-square)](https://github.com/experiment-solutions/experiment-elixirlang/issues)
+[![GitHub issues](https://img.shields.io/github/issues/org-victorinox/experiment-elixirlang.svg)](https://github.com/org-victorinox/experiment-elixirlang/issues)
+![GitHub Release Date](https://img.shields.io/github/release-date/org-victorinox/experiment-elixirlang.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/org-victorinox/experiment-elixirlang.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/org-victorinox/experiment-elixirlang.svg)
+![GitHub All Releases](https://img.shields.io/github/downloads/org-victorinox/experiment-elixirlang/total.svg)
 
 ## Contributing
 
@@ -13,7 +17,7 @@
 
 ## Log
 
-Check [Releases](https://github.com/experiment-solutions/experiment-elixirlang/releases) for detailed changelog.
+Check [Releases](https://github.com/org-victorinox/experiment-elixirlang/releases) for detailed changelog.
 
 ## License
 
